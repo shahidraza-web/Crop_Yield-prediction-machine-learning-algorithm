@@ -23,7 +23,7 @@ Kaggle LINK  of the project: https://www.kaggle.com/code/shahidraza648/crop-yiel
 
 VIDEO EXPLANATION LINK: 
 
-MAIN ALGO : https://drive.google.com/file/d/1JY3PjOharDk9-NOrkpnLIw75mN4UHrT6/view?usp=drivesdk
+MAIN ALGO : https://drive.google.com/file/d/1JVUOlpGBnv0s5hFlkHYb9CIq7woaMdCK/view?usp=drivesdk
 
 
 LIMITATIONS AND OUTRO : https://drive.google.com/file/d/1JY3PjOharDk9-NOrkpnLIw75mN4UHrT6/view?usp=drivesdk
