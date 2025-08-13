@@ -23,6 +23,6 @@ Kaggle LINK  of the project: https://www.kaggle.com/code/shahidraza648/crop-yiel
 
 Video Explanation LINK: 
 
-MAIN ALGO EXPLANATION LINK : 
+MAIN ALGO EXPLANATION LINK : https://www.canva.com/design/DAGv8jbdPlQ/Bbaj3iTG388MukUtpydIvg/edit?utm_content=DAGv8jbdPlQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 LIMITATIONS AND OUTRO : 
