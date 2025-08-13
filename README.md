@@ -19,6 +19,7 @@ Per-crop performance metrics for targeted analysis
 This work demonstrates how data-driven approaches can help farmers, policymakers, and researchers make informed decisions to improve agricultural productivity and sustainability.
 
 Kaggle LINK  of the project: https://www.kaggle.com/code/shahidraza648/crop-yield
+( WARNING ⚠️: If error is encountered while running the cells edit it and  click on run all cells...... error will be rectified.) 
 
 
 VIDEO EXPLANATION LINK: 
