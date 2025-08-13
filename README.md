@@ -21,8 +21,9 @@ This work demonstrates how data-driven approaches can help farmers, policymakers
 Kaggle LINK  of the project: https://www.kaggle.com/code/shahidraza648/crop-yield
 
 
-Video Explanation LINK: 
+VIDEO EXPLANATION LINK: 
 
-MAIN ALGO EXPLANATION LINK : https://www.canva.com/design/DAGv8jbdPlQ/Bbaj3iTG388MukUtpydIvg/edit?utm_content=DAGv8jbdPlQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+MAIN ALGO : https://drive.google.com/file/d/1JY3PjOharDk9-NOrkpnLIw75mN4UHrT6/view?usp=drivesdk
 
-LIMITATIONS AND OUTRO : 
+
+LIMITATIONS AND OUTRO : https://drive.google.com/file/d/1JY3PjOharDk9-NOrkpnLIw75mN4UHrT6/view?usp=drivesdk
